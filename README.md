@@ -19,6 +19,7 @@ Title : Sales Analysis of an E-commerce Business
 
 
  Recommendations
+ 
  Sales Optimization:
  * Leverage the sales peak in November to implement promotional activities or product launches in that period.
  * Investigate the best-selling products in the Technology category (phones) to further improve sales in that category. 
