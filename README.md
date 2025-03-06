@@ -1,6 +1,8 @@
 # Sales-Analysis
 Title : Sales Analysis of an E-commerce Business
+ 
  Conclusions
+ 
  Sales Performance:
  * November shows the highest sales, indicating a potential peak season.
  * Technology category dominates sales, followed by Furniture and Office Supplies.
